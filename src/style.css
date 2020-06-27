@@ -1,0 +1,34 @@
+.container{
+	text-align: center;
+	width: 100% ;
+}
+.container button , .container a{
+	background: #f4511e;
+	font-weight: bold;
+	font-size: 15px;
+	color: #fff;
+	border: none;
+	padding: 6px;
+	margin: 0 5px 0 5px;
+	text-decoration: none;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 5px 10px 5px 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.m1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
